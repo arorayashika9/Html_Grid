@@ -1,0 +1,31 @@
+body
+	{
+		background-image: url(eLibr.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	p
+	{
+		font-size: 50px;
+		font-family:monospace;
+	}
+	h1{
+				font-size: 700%;
+				font-family: monospace;
+				border: 3px solid #FFDAB9;
+				width:50%;
+				margin: 0;
+				padding:0;
+			}
+			a{
+				color:black;
+				text-decoration: none;
+			}
+			a:hover {
+    background-color: 	#8B4513;
+}
+			source
+			{
+				margin:0;
+				padding:0;
+			}

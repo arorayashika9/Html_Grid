@@ -1,0 +1,38 @@
+body {
+    background-image: url(salad-2068220__340.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: right-center;
+}
+h1
+{
+	color: white;
+	/*text-align: center;*/
+	font-size: 900%;
+	font-family: monospace;
+	border: 5px solid #F4A460;
+	width: 50%;
+}
+a
+{
+font-size: 300%; 
+color:white;
+text-decoration-line: none;
+margin-right: 25px;
+
+}
+a:hover {
+    background-color: #D2B48C;
+}
+li
+{
+	display:inline;
+
+}
+ul
+{
+	border: 2px solid #D2B48C;
+	border-right: none;
+	border-left: none;
+	width: 60%;
+}
