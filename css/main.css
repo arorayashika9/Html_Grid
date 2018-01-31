@@ -1,0 +1,195 @@
+	
+/*Elib(video page) CSS properties*/
+
+	#ElibBody											/*Body properies*/
+	{
+		background-image: url(../images/eLibr.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	#ElibP												/*Paragraph properties*/
+	{
+		font-size: 50px;
+		font-family:monospace;
+	}
+	#Elibh1												/*Heading Properties*/
+	{
+		font-size: 700%;
+		font-family: monospace;
+		border: 3px solid #FFDAB9;
+		width:50%;
+		margin: 0;
+		padding:0;
+	}
+	#Eliba												/*Anchor properties*/
+	{
+		color:black;
+		text-decoration: none;
+	}
+	#Eliba:hover 										/*Hover*/
+	{
+    background-color: 	#8B4513;
+	}
+	#Elibsrc											/*video properties*/
+	{
+		margin:0;
+		padding:0;
+	}
+
+
+/*Library(Pdfs) CSS Properties*/
+
+	#LibBody											/*Body Properties*/
+	{
+		background-image: url(../images/livrebg.jpg);
+		background-size: cover;
+	}
+	#LibTable											/*Table Properties*/
+	{
+		border: 3px solid #A52A2A;
+		position: center;
+		width:100%;
+	}	
+	#Libtd												/*Table row Properties*/
+	{
+		border: 2px solid 	#800000;
+		font-size: 200%;
+		font-family: monospace;
+		text-align: center;
+	}
+	#Libth												/*Table Heading Properties*/
+	{
+		height: 50px;
+		font-size: 200%;
+		font-family: monospace;
+		border: 2px solid 	#800000;
+		text-align: center;
+	}	
+	#Libh1												/*Heading Properties*/
+	{	
+		font-size: 700%;
+		font-family: monospace;
+		border:4px solid #8B4513;
+		width: 30%
+	}
+	#Liba 												/*Anchor properties*/
+	{
+		color: black;
+		text-decoration-line: none;
+	}
+			
+	#Liba:hover 										/*Hover*/
+	{
+   		background-color: #D2B48C;
+	}
+		
+
+
+/*quotes page CSS Properties*/
+
+
+	#Signh1										/*Heading Properties*/
+   {
+    	color:black;
+    	font-size: 350%;
+    	font-family: "Times New Roman", Times, serif;
+    	font-style: oblique;
+
+   }
+
+	#signp
+	{
+		font-size: 200%;
+		 font-family: Arial, Helvetica, sans-serif;
+		font-style: italic;
+	}
+
+	#Signbody										/*Body Properties*/
+	{
+   		background-image: url(../images/signin.jpg);
+     	background-repeat: no-repeat;
+     	background-size: cover;
+     	background-position: right-center;
+     	color:black;
+	}
+	
+
+
+
+/*First page CSS Properties*/
+
+	#fpbody 														/*Body Properties*/
+	{
+    	background-image: url(../images/salad-2068220__340.jpg);
+     	background-repeat: no-repeat;
+     	background-size: cover;
+     	background-position: right-center;
+	}
+	#fph1															/*Heading Properties*/
+	{
+		color: white;
+		font-size: 900%;
+		font-family: monospace;
+		border: 5px solid #F4A460;
+		width: 50%;
+	}
+	#fpa															/*Anchor properties*/
+	{
+		font-size: 300%; 
+		color:white;
+		text-decoration-line: none;
+		margin-right: 15px;	
+	}
+	#fpa:hover 														/*Hover*/
+	{
+    	background-color: #D2B48C;
+	}
+	#fpli															/*List item properties*/
+	{
+		display:inline;
+	}
+	#fpul															/*All list items properties*/
+	{
+		border: 2px solid #D2B48C;
+		border-right: none;
+		border-left: none;
+		width: 60%;
+	}
+
+
+
+
+
+
+
+
+	#healthbody 
+	{
+     	background-image: url(../images/salad-2068220__340.jpg);
+     	background-repeat: no-repeat;
+     	background-size: cover;
+     	background-position: right-center;
+	}
+	#health1
+	{
+		color: white;
+		font-size: 600%;
+		font-family: monospace;
+		border: 5px solid #F4A460;
+		width: 55%;
+	}
+	#healthp
+	{
+		font-size: 20px;
+		color:	#FFEFD5;
+	}
+	#healtha:hover 
+	{
+    	background-color: #D2B48C;
+	}
+	#healtha
+	{
+		color:black;
+		text-decoration-line: none;
+		float: right;
+	}
